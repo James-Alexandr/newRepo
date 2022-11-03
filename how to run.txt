@@ -5,3 +5,8 @@ or
 node temp.js
 
 and you should see the output in the terminal
+
+
+PART THREE: DRY Fusion
+
+ask me about this :)
