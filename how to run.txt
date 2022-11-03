@@ -1,0 +1,7 @@
+open the terminal
+type in the following command
+node soccer.js
+or
+node temp.js
+
+and you should see the output in the terminal
